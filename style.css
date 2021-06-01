@@ -531,3 +531,6 @@ button:hover {
   text-align: center;
 }
 
+.absolute-footer h3 {
+  font-size: 1.2rem;
+}
